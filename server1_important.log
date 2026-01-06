@@ -1,0 +1,7 @@
+Oct 30 20:55:04 err server1 sshd[12345]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Oct 30 20:55:05 crit server1 kernel: [123456.789012] CPU0: Temperature above threshold, cpu clock throttled
+Oct 30 20:55:09 warning server1 networkd-dispatcher: WARNING: No connection found for interface wlan0
+Oct 30 20:55:11 warning server1 kernel: [123490.123456] eth1: Link is Down
+Oct 30 20:55:21 warning server1 kernel: [123478.654321] ip_tables: (C) 2000-2006 Netfilter Core Team
+Oct 30 20:55:22 warning server1 userdel[67890]: Removing user 'newuser'
+Oct 30 20:55:24 warning server1 kernel: [123489.123456] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
